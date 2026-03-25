@@ -22,8 +22,7 @@ We build complex Salesforce solutions for mid-market and enterprise B2B companie
 
 ### Products
 
-- **[AllyPort](https://allyport.io)** — AI-powered partner portal platform for Salesforce
-- **[GTM Crew](https://gtmcrew.com)** — AI agent-powered go-to-market operating system
+- **[AllyPort](https://allyport.ai)** — AI-powered partner portal platform for Salesforce
 
 ---
 
