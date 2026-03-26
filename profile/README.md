@@ -6,11 +6,6 @@ We build complex Salesforce solutions for mid-market and enterprise B2B companie
 
 ---
 
-### Open Source
-
-🔌 **[salesforce-pro](https://github.com/cumulusvision/salesforce-pro)** — Salesforce development & admin toolkit for AI coding agents. 12 skills, 6 specialist agents, automated hooks, and LSP integration. Works with Claude Code, OpenAI Codex, Gemini, Cursor, and 30+ platforms. Free and open source.
-
----
 
 ### What We Do
 
